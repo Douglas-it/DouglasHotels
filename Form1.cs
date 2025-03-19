@@ -21,5 +21,10 @@ namespace HotelSys
         {
 
         }
+
+        private void Reserva_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
